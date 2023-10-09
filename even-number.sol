@@ -12,7 +12,7 @@ contract A {
         if(_num%2==0){
             return true;
         }
-        else{
+     else{
             return false;
         }
     
